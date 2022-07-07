@@ -1,0 +1,42 @@
+[
+  {
+    "description": "請問1+1=?\n(a)2\n(b)3\n(c)4\n",
+    "answer": "a"
+  },
+  {
+    "description": "請問2+2=?\n(a)2\n(b)3\n(c)4\n",
+    "answer": "c"
+  },
+  {
+    "description": "請問4+4=?\n(a)7\n(b)8\n(c)9\n",
+    "answer": "b"
+  },
+  {
+    "description": "請問1公尺=幾公分?\n(a)1\n(b)10\n(c)100\n",
+    "answer": "c"
+  },
+  {
+    "description": "請問1公斤=幾公克?\n(a)100\n(b)1000\n(c)10000\n",
+    "answer": "b"
+  },
+  {
+    "description": "請問1年有幾天?\n(a)365\n(b)1000\n(c)10000\n",
+    "answer": "a"
+  },
+  {
+    "description": "請問我帥嗎?\n(a)帥爆\n(b)真他媽帥\n(c)太帥了8\n",
+    "answer": "a"
+  },
+  {
+    "description": "請問蛋的英文是?\n(a)apple\n(b)dog\n(c)egg\n",
+    "answer": "c"
+  },
+  {
+    "description": "請問貓的英文是?\n(a)egg\n(b)cat\n(c)dog\n",
+    "answer": "b"
+  },
+  {
+    "description": "請問狗的英文是?\n(a)apple\n(b)banana\n(c)dog\n",
+    "answer": "c"
+  }
+]
